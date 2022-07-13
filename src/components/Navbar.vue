@@ -18,31 +18,31 @@
                     </div>
                     <div class="flex-1">
                         <div class="flex text-center 2xl:text-xl lg:text-lg tracking-wide justify-between items-center">
-                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
                                 <router-link to="/">
-                                    Home
+                                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
+                                            Home
+                                    </div>
                                 </router-link>
-                            </div>
-                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
                                 <router-link to="/about-us">
-                                    About Us
+                                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
+                                            About Us
+                                    </div>
                                 </router-link>
-                            </div>
-                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
                                 <router-link to="/product-details">
-                                    Product Details
+                                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
+                                            Product Details
+                                    </div>
                                 </router-link>
-                            </div>
-                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
                                 <router-link to="/gallery">
-                                    Gallery
+                                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
+                                            Gallery
+                                    </div>
                                 </router-link>
-                            </div>
-                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
                                 <router-link to="/contact">
-                                    Contact
+                                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100">
+                                            Contact
+                                    </div>
                                 </router-link>
-                            </div>
                         </div>
                     </div>
                 </nav>
@@ -59,31 +59,31 @@
                     </div>
                 </nav>
                 <div class="menu bg-black text-white absolute left-0 w-full -mt-4 transition ease-in delay-150" v-if="toggleNavbar">
-                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
                         <router-link to="/">
-                            Home
+                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
+                                    Home
+                            </div>
                         </router-link>
-                    </div>
-                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
                         <router-link to="/about-us">
-                            About Us
+                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
+                                    About Us
+                            </div>
                         </router-link>
-                    </div>
-                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
                         <router-link to="/product-details">
-                            Product Details
+                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
+                                    Product Details
+                            </div>
                         </router-link>
-                    </div>
-                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
                         <router-link to="/gallery">
-                            Gallery
+                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide border-b border-white">
+                                    Gallery
+                            </div>
                         </router-link>
-                    </div>
-                    <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide">
                         <router-link to="/contact">
-                            Contact
+                            <div class="hover:cursor-pointer hover:text-orange-200 transition ease-in delay-100 py-3 px-4 text-lg tracking-wide">
+                                    Contact
+                            </div>
                         </router-link>
-                    </div>
                 </div>
     </div>
 </template>
