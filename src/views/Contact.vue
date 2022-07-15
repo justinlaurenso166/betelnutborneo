@@ -17,15 +17,15 @@
                 <div class="flex gap-10 2xl:flex-row lg:flex-row md:flex-col flex-col">
                     <div class="flex-1 py-10 px-8 shadow-lg shadow-gray-300">
                         <h2 class="font-bold 2xl:text-3xl lg:text-2xl md:text-2xl text-xl">Our Location</h2>
-                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">Surabaya</p>
+                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">Pontianak</p>
                     </div>
                     <div class="flex-1 py-10 px-8 shadow-lg shadow-gray-300">
                         <h2 class="font-bold 2xl:text-3xl lg:text-2xl md:text-2xl text-xl">Call Us On</h2>
-                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">‪+62 819‑3313‑8839‬</p>
+                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">‪+62 812-5551-8331‬</p>
                     </div>
                     <div class="flex-1 py-10 px-8 shadow-lg shadow-gray-300">
                         <h2 class="font-bold 2xl:text-3xl lg:text-2xl md:text-2xl text-xl">Email Us</h2>
-                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">jreng@jrcharcoal.com</p>
+                        <p class="text-gray-600 mt-3 2xl:text-xl lg:text-lg md:text-lg text-lg">betelnut.supply@gmail.com</p>
                     </div>
                 </div>
             </div>

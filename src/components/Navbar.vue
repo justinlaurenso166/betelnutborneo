@@ -13,7 +13,7 @@
         <nav class="2xl:flex text-white py-8 hidden lg:flex md:hidden">
                     <div class="flex-1 font-bold text-3xl tracking-widest">
                         <router-link to="/">
-                            BetelNutBorneo
+                            Betel Nut Supply
                         </router-link>
                     </div>
                     <div class="flex-1">
@@ -50,7 +50,7 @@
                     <div>
                         <h3 class="font-bold md:text-2xl text-xl tracking-wider">
                             <router-link to="/">
-                                BetelNut<br>Borneo
+                                Betel Nut<br>Supply
                             </router-link>
                         </h3>
                     </div>

@@ -14,10 +14,13 @@
                 <div class="mt-10">
                     <div class="flex items-center 2xl:gap-10 gap-6 2xl:flex-row-reverse lg:flex-row-reverse flex-col 2xl:text-left lg:text-left text-center">
                         <div class="flex-1">
-                            <h1 class="font-bold 2xl:text-5xl lg:text-5xl text-3xl tracking-wider text-right">JR Charcoal</h1>
+                            <h1 class="font-bold 2xl:text-5xl lg:text-5xl text-3xl tracking-wider text-right">Betel Nut Supply</h1>
                         </div>
                         <div class="flex-1">
-                            <p class="2xl:text-xl lg:text-xl text-lg text-gray-200">We manage 100% coconut briquette charcoal. and jr charcoal is the best supplier in Indonesia. and we prioritize charcoal with the best quality because customer satisfaction is also our satisfaction. and in our factory is also able to produce 200 tons of coconut charcoal briquettes/ month</p>
+                            <p class="2xl:text-xl lg:text-xl text-lg text-gray-200">Betel nuts, also known as Areca nuts, are mostly grown in Southeast Asia. The betel nut supply is the best in Indonesia. We prioritize betel nuts of the highest quality and lowest price. We serve only the highest quality, with a dry content of less than 5%. Our product has 2 types: whole and half-split.
+                            <br><br>
+                            We produce 100 tons of dried betel nuts in a month. We accepted FCL and LCL.
+                            </p>    
                         </div>
                     </div>
                 </div>
@@ -54,9 +57,9 @@
                 </div>
             </div>
         </div>
-        <div>
+        <!-- <div>
             <Features />
-        </div>
+        </div> -->
         <footer class="bg-gray-100">
             <Footer />
         </footer>
