@@ -28,7 +28,7 @@
                             <h1 class="font-bold 2xl:text-5xl lg:text-5xl md:text-5xl text-3xl tracking-wider 2xl:leading-relaxed lg:leading-relaxed leading-relaxed md:leading-relaxed">The Best Supplier <br> Of Betel Nut Product</h1>
                         </div>
                         <div class="mt-8">
-                            <button class="bg-transparant text-white border-white border-2 py-3 px-4 rounded-lg font-bold 2xl:text-xl lg:text-xl md:text-xl text-lg tracking-wider transition ease-in-out delay-100 hover:bg-white hover:text-black hover:border-black" @click="$router.push({path:'/product-details'})">Learn More</button>
+                            <button class="bg-transparant text-white border-white border-2 py-3 px-4 rounded-lg font-bold 2xl:text-xl lg:text-xl md:text-xl text-lg tracking-wider transition ease-in-out delay-100 hover:bg-white hover:text-black hover:border-black" @click="$router.push({path:'/about-us'})">Learn More</button>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                             </div>
                         </div>
                         <div class="flex-1">
-                            <img src="../assets/images/powder.jpg" alt="" class="h-full 2xl:w-full lg:w-full md:w-2/3 m-auto rounded-lg">
+                            <img src="../assets/images/4-edit.png" alt="" class="h-full 2xl:w-full lg:w-full md:w-2/3 m-auto rounded-lg">
                         </div>
                     </div>
                 </div>
@@ -88,14 +88,14 @@
                         </div>
                         <div class="2xl:w-2/3 flex m-auto 2xl:gap-20 lg:gap-20 md:gap-10 gap-10 2xl:flex-row lg:flex-row md:flex-col flex-col mt-14">
                             <div class="flex-1 flex items-center gap-8 2xl:flex-row lg:flex-row flex-col">
-                                <div class="flex-0 w-[50%] m-auto">
-                                    <img src="../assets/images/img1.jpg" class="rounded-lg inline">
+                                <div class="flex-0 w-[80%] m-auto">
+                                    <img src="../assets/images/4.png" class="rounded-lg inline w-full h-full">
                                 </div>
                                 <!-- <div class="flex-1"><h3 class="font-bold text-2xl tracking-wider">Silver Gold</h3></div> -->
                             </div>
                             <div class="flex-1 flex items-center gap-8 2xl:flex-row lg:flex-row flex-col">
-                                <div class="flex-0 w-[50%] m-auto">
-                                    <img src="../assets/images/img1.jpg" class="rounded-lg inline">
+                                <div class="flex-0 w-[80%] m-auto">
+                                    <img src="../assets/images/1.png" class="rounded-lg inline w-full h-full">
                                 </div>
                                 <!-- <div class="flex-1"><h3 class="font-bold text-2xl tracking-wider">BBQ</h3></div> -->
                             </div>
@@ -127,7 +127,9 @@
                         <h1 class="font-bold tracking-wider 2xl:text-5xl lg:text-5xl text-4xl">Questions ?</h1>
                         <h3 class="font-bold tracking-wide text-3xl mt-4">Let's get in touch</h3>
                         <div class="mt-5">
-                            <button class="bg-black rounded-lg py-2 px-4 text-white text-lg font-bold tracking-wider">Contact Us</button>
+                            <a target="blank" href="https://wa.me/6281255518331">
+                                <button class="bg-black rounded-lg py-2 px-4 text-white text-lg font-bold tracking-wider">Contact Us</button>
+                            </a>
                         </div>
                     </div>
                 </div>

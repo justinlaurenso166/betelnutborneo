@@ -25,9 +25,9 @@
                     </div>
                 </div>
                 <div class="mt-10">
-                    <img src="../assets/images/img3.jpg" class="w-full">
+                    <img src="../assets/images/4-us.png" class="w-full">
                 </div>
-                <div class="mt-8">
+                <!-- <div class="mt-8">
                     <div class="flex 2xl:flex-row lg:flex-row md:flex-col flex-col gap-8 mt-14">
                         <div class="flex-1 flex items-center gap-8 2xl:flex-row lg:flex-row flex-col">
                             <div class="flex-0 w-[30%]">
@@ -54,7 +54,7 @@
                             <div class="flex-1"><h3 class="font-bold text-2xl tracking-wider">BBQ</h3></div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- <div>

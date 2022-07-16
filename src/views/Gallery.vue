@@ -33,8 +33,8 @@
                             :loop="true"
                             :loopFillGroupWithBlank="true"
                         >
-                            <swiper-slide class="mb-16" v-for="i in 10" :key="i">
-                                <img src="../assets/images/img1.jpg" class="w-full">
+                            <swiper-slide class="mb-16" v-for="i in 4" :key="i">
+                                <img :src="`../src/assets/images/${i}.png`" class="w-full rounded-lg shadow-lg shadow-gray-400">
                             </swiper-slide>
                         </swiper>
                 </div>
@@ -54,8 +54,8 @@
                             :loop="true"
                             :loopFillGroupWithBlank="true"
                         >
-                            <swiper-slide class="mb-16" v-for="i in 10" :key="i">
-                                <img src="../assets/images/img1.jpg" class="w-full">
+                            <swiper-slide class="mb-16" v-for="i in 4" :key="i">
+                                <img :src="`../src/assets/images/${i}.png`" class="w-full rounded-lg shadow-lg shadow-gray-400">
                             </swiper-slide>
                         </swiper>
 
