@@ -1,6 +1,6 @@
 <script setup>
     import Footer from "../components/Footer.vue"
-    import Header from "../components/Headers.vue"
+    import Navbar from "../components/Navbar.vue"
     import { Swiper, SwiperSlide } from 'swiper/vue';
     import 'swiper/css';
     import "swiper/css/pagination";
@@ -13,7 +13,19 @@
 <template>
     <div>
         <header>
-            <Header image="'../assets/images/bg1.jpg'" title="Our Gallery" text=""/>    
+            <div>
+                <div class="bg-[url('../assets/images/bg1.jpg')] bg-cover bg-center bg-no-repeat rounded-br-[100px]">
+                    <div class="bg-black bg-opacity-60 rounded-br-[100px]">
+                        <div class="2xl:w-[60%] lg:w-[85%] w-[90%] m-auto ">
+                            <Navbar />
+                            <div class="pt-[120px] pb-[160px] ">
+                                <h1 class="font-bold text-white 2xl:text-7xl lg:text-5xl md:text-5xl text-4xl 2xl:px-0 px-7 md:px-0">Our Gallery</h1>
+                                <p class="text-white mt-6 tracking-wide 2xl:text-xl lg:text-xl md:text-xl text-lg 2xl:px-0 px-7 md:px-0"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
         </header>
         <main class="py-20">
             <div class="2xl:w-[60%] lg:w-[70%] w-[90%] m-auto">
