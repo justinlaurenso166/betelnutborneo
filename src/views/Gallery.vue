@@ -13,7 +13,7 @@
 <template>
     <div>
         <header>
-            <Header image="'../assets/images/bg-ques.jpg'" title="Our Gallery" text=""/>    
+            <Header image="'./images/bg-ques.jpg'" title="Our Gallery" text=""/>    
         </header>
         <main class="py-20">
             <div class="2xl:w-[60%] lg:w-[70%] w-[90%] m-auto">
