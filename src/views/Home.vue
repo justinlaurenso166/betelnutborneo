@@ -119,7 +119,7 @@
                     </div>
             </section>
             <section>
-                <div class="bg-[url('../assets/images/bg1.jpg')]  h-[500px] bg-cover bg-center bg-no-repeat">
+                <div class="bg-[url('../assets/images/bggallery.jpg')]  h-[500px] bg-cover bg-center bg-no-repeat">
                     <div class="bg-black bg-opacity-30 h-[500px] w-full flex items-center justify-center">
                         <div class="bg-slate-300 text-center 2xl:w-2/5 lg:w-2/5 w-[90%] rounded-xl p-7">
                             <h1 class="font-bold tracking-wider 2xl:text-5xl lg:text-5xl text-4xl">Questions ?</h1>
