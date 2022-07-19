@@ -60,9 +60,6 @@
                                     We produce 100 tons of dried betel nuts in a month. We accepted FCL and LCL.
                                 </p>
                             </div>
-                            <div class="about-us-button mt-8">
-                                <button class="border border-black font-semibold py-2 px-5 tracking-wider rounded-md transition ease-in-out delay-100 hover:bg-black hover:text-white hover:border-white"  @click="$router.push({path:'/about-us'})">Learn More</button>
-                            </div>
                         </div>
                         <div class="flex-1">
                             <img src="../assets/images/4-edit.png" alt="" class="h-full 2xl:w-full lg:w-full md:w-2/3 m-auto rounded-lg">
@@ -82,7 +79,7 @@
                     <div class="flex 2xl:flex-col lg:flex-col md:flex-col flex-col mt-10">
                         <div class="text-center">
                             <h4 class="font-bold text-2xl">Quality : </h4>
-                            <p class="text-xl mt-3">80-90% Good Cut, Half Split</p>
+                            <p class="text-xl mt-3">80-85% Good Cut, Half Split</p>
                             <p class="text-xl mt-3">70-75% Good Cut, Half Split</p>
                             <p class="text-xl mt-3">Others Quality.</p>
                         </div>
@@ -122,14 +119,16 @@
                     </div>
             </section>
             <section>
-                <div class="bg-[url('../assets/images/bg-ques.jpg')] flex items-center h-[500px] bg-cover bg-center bg-no-repeat justify-center">
-                    <div class="bg-slate-300 text-center 2xl:w-2/5 lg:w-2/5 w-[90%] rounded-xl p-7">
-                        <h1 class="font-bold tracking-wider 2xl:text-5xl lg:text-5xl text-4xl">Questions ?</h1>
-                        <h3 class="font-bold tracking-wide text-3xl mt-4">Let's get in touch</h3>
-                        <div class="mt-5">
-                            <a target="blank" href="https://wa.me/6281255518331">
-                                <button class="bg-black rounded-lg py-2 px-4 text-white text-lg font-bold tracking-wider">Contact Us</button>
-                            </a>
+                <div class="bg-[url('../assets/images/bg1.jpg')]  h-[500px] bg-cover bg-center bg-no-repeat">
+                    <div class="bg-black bg-opacity-30 h-[500px] w-full flex items-center justify-center">
+                        <div class="bg-slate-300 text-center 2xl:w-2/5 lg:w-2/5 w-[90%] rounded-xl p-7">
+                            <h1 class="font-bold tracking-wider 2xl:text-5xl lg:text-5xl text-4xl">Questions ?</h1>
+                            <h3 class="font-bold tracking-wide text-3xl mt-4">Let's get in touch</h3>
+                            <div class="mt-5">
+                                <a target="blank" href="https://wa.me/6281255518331">
+                                    <button class="bg-black rounded-lg py-2 px-4 text-white text-lg font-bold tracking-wider">Contact Us</button>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
