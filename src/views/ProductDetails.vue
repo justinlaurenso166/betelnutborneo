@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="flex-1 w-full 2xl:mt-0 lg:mt-0 mb-10">
-                        <img src="../assets/images/2-edit.png" class="2xl:w-[70%] lg:w-[70%] w-full rounded-lg shadow-lg shadow-gray-500">
+                        <img src="../assets/images/2.png" class="2xl:w-[75%] lg:w-[75%] w-full rounded-lg shadow-lg shadow-gray-500">
                     </div>
                 </div>
             </div>
