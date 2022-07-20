@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="flex-1 w-full 2xl:mt-0 lg:mt-0 mb-10">
-                        <img src="../assets/images/2.png" class="2xl:w-[75%] lg:w-[75%] w-full rounded-lg shadow-lg shadow-gray-500">
+                        <img src="../assets/images/6.jpeg" class="2xl:w-[75%] lg:w-[75%] w-full rounded-lg shadow-lg shadow-gray-500">
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                             </p>
                         </div>
                         <div class="flex-1">
-                            <img src="../assets/images/3-edit.png" class="2xl:w-[80%] lg:w-[80%] md:w-[50%] w-[50%] m-auto rounded-xl shadow-xl shadow-gray-300">
+                            <img src="../assets/images/5.jpeg" class="2xl:w-[80%] lg:w-[80%] md:w-[50%] w-[50%] m-auto rounded-xl shadow-xl shadow-gray-300">
                         </div>
                     </div>
                     <div class="flex mt-20 gap-10 2xl:flex-row lg:flex-row md:flex-col flex-col">
