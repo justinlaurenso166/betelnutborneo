@@ -72,6 +72,15 @@
                             <swiper-slide class="mb-16" v-for="i in 1" :key="i+10">
                                 <img :src="`./images/${i+8}.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
                             </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/13.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/10.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/11.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
                         </swiper>
                 </div>
                 <div class="2xl:hidden lg:hidden md:hidden block">
@@ -116,6 +125,15 @@
                             </swiper-slide>
                             <swiper-slide class="mb-16" v-for="i in 1" :key="i+10">
                                 <img :src="`./images/${i+8}.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/13.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/10.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
+                            </swiper-slide>
+                            <swiper-slide class="mb-16">
+                                <img :src="`./images/11.jpeg`" class="w-full rounded-lg shadow-lg shadow-gray-400">
                             </swiper-slide>
                         </swiper>
 
