@@ -39,27 +39,6 @@
                             :modules="modules"
                             class="mySwiper"
                             :autoplay="{
-                                delay: 2500,
-                                disableOnInteraction: false,
-                            }"
-                            :loop="true"
-                            :loopFillGroupWithBlank="true"
-                        >
-                            <swiper-slide class="mb-16" v-for="i in 4" :key="i">
-                                <img :src="`./images/${i}.png`" class="w-full rounded-lg shadow-lg shadow-gray-400">
-                            </swiper-slide>
-                        </swiper>
-                </div>
-                <div class="2xl:block lg:block md:block hidden mt-20">
-                    <swiper
-                            :slidesPerView="3"
-                            :spaceBetween="30"
-                            :pagination="{
-                                clickable: true,
-                            }"
-                            :modules="modules"
-                            class="mySwiper"
-                            :autoplay="{
                                 delay: 3000,
                                 disableOnInteraction: false,
                             }"
@@ -84,27 +63,6 @@
                         </swiper>
                 </div>
                 <div class="2xl:hidden lg:hidden md:hidden block">
-                    <swiper
-                            :slidesPerView="1"
-                            :spaceBetween="30"
-                            :pagination="{
-                                clickable: true,
-                            }"
-                            :modules="modules"
-                            class="mySwiper"
-                            :autoplay="{
-                                delay: 2500,
-                                disableOnInteraction: false,
-                            }"
-                            :loop="true"
-                            :loopFillGroupWithBlank="true"
-                        >
-                            <swiper-slide class="mb-16" v-for="i in 4" :key="i">
-                                <img :src="`./images/${i}.png`" class="w-full rounded-lg shadow-lg shadow-gray-400">
-                            </swiper-slide>
-                        </swiper>
-                </div>
-                <div class="2xl:hidden lg:hidden md:hidden block mt-10">
                     <swiper
                             :slidesPerView="1"
                             :spaceBetween="30"
